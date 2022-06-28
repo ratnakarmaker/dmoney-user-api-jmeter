@@ -18,13 +18,18 @@ jmeter -n -t "DmoneyAPI.jmx" -l "DmoneyAPI.csv" -e -o Reports
 ```
 ## Steps
 - Create user
-- Search User
+- Search user
 - Update user by id
 - Delete user
 
-## Summary Report
-![Summary Reports Preview](./summary-report.png)
 
-## HTML Report
-![HTML Reports Preview](./html_report.png)
+|               Summary Report               |
+| :----------------------------------------: |
+| ![Summary Reports Preview](./summary-report.png) |
+
+
+
+|               HTML Report               |
+| :----------------------------------------: |
+| ![HTML Reports Preview](./html_report.png) |
 
